@@ -1,4 +1,4 @@
-<h2> Hi there 👋</h2>
+<h2> Hi ,I'm Akella Kiranmayi</h2>
 I'm a B.Tech First Year Computer Science Student who loves learning programming and exploring new technologies.  
 This repository contains my practice codes, mini-projects, and experiments as I learn different programming languages and concepts.
 <hr> 
