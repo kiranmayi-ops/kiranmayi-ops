@@ -9,6 +9,7 @@ This repository contains my practice codes, mini-projects, and experiments as I 
    <li>C Programming</li>
    <li>Data Structures</li>
    <li>Web Development (HTML, CSS, JavaScript)</li>
+  <li>python</li>
  </ul>
  <hr>
  <h3>What I Enjoy</h3>
